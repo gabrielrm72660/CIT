@@ -1,0 +1,5 @@
+{
+  "name": "CIT-Access Control Pro",
+  "description": "Sistema autônomo de gestão de cartões de acesso para rastreamento de credenciais de pessoal, com persistência em localStorage, importação/exportação de dados e filtragem em tempo real.",
+  "requestFramePermissions": []
+}
